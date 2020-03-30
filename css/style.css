@@ -7,16 +7,16 @@ body {
   /* Sizing */
   width: 100%;
   height: 20%;
-  
+
   /* Flexbox stuff */
   display: flex;
   justify-content: center;
   align-items: center;
-  
+
   /* Text styles */
   text-align: center;
   color: white; /* ADD THIS LINE */
-  
+
   /* Background styles */
   background-image: url("../images/parallax1.jpg");
   background-size: cover;
@@ -28,12 +28,16 @@ body {
 .hero h1 {
   /* Text styles */
   font-size: 5em;
-  
+
   /* Margins */
   margin-top: 0;
   margin-bottom: 0.5em;
 }
 
-.cardText{
+.cardText {
   text-align: justify;
+}
+
+h6 {
+  color: white;
 }
