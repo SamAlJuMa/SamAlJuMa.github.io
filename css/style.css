@@ -28,7 +28,7 @@ body {
 .hero h1 {
   /* Text styles */
   font-size: 5em;
-
+  font-family: 'Sen', sans-serif;
   /* Margins */
   margin-top: 0;
   margin-bottom: 0.5em;
@@ -40,4 +40,8 @@ body {
 
 h6 {
   color: white;
+}
+
+.iconContainer{
+  font-size: 2em;
 }
